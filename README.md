@@ -15,7 +15,7 @@ Design a REST API endpoint that provides auto-complete suggestions for large cit
 
 ## "The rules"
 
-- *You must use the python and any web framework of your choosing.* It's OK to try something new (tell us if you do), but feel free to use something you're comfortable with. We don't care if you use something we don't; the goal here is not to validate your knowledge in building maintainable and testable web applications.
+- *You must use python and any web framework of your choosing.* It's OK to try something new (tell us if you do), but feel free to use something you're comfortable with. We don't care if you use something we don't; the goal here is not to validate your knowledge in building maintainable and testable web applications.
 
 ## Advice
 
@@ -79,3 +79,4 @@ These responses are meant to provide guidance. The exact values can vary based o
 ## Getting Started
 
 Begin by forking this repo and cloning your fork.
+
